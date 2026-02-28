@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ResumePro AI | Smart AI Resume Builder</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e3a8a);
+      color: white;
+      text-align: center;
+    }
+
+    header {
+      padding: 60px 20px;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin: 0;
+    }
+
+    .tagline {
+      font-size: 20px;
+      margin-top: 15px;
+      color: #cbd5e1;
+    }
+
+    .hero {
+      padding: 50px 20px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 15px 35px;
+      background: #22c55e;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-size: 18px;
+      margin-top: 25px;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      background: #16a34a;
+    }
+
+    .section {
+      background: white;
+      color: #111827;
+      padding: 60px 20px;
+    }
+
+    .section h2 {
+      font-size: 32px;
+      margin-bottom: 30px;
+    }
+
+    .feature {
+      margin: 15px auto;
+      max-width: 600px;
+      background: #f3f4f6;
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    footer {
+      padding: 20px;
+      font-size: 14px;
+      background: #0f172a;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>ResumePro AI</h1>
+  <div class="tagline">Smart AI Resume & Cover Letter Generator 🚀</div>
+</header>
+
+<section class="hero">
+  <h2>Create Job-Winning Resumes in Minutes</h2>
+  <p>ATS-Optimized • Tamil & English • Instant Download</p>
+  <a href="#" class="btn">Launch App (Coming Soon)</a>
+</section>
+
+<section class="section">
+  <h2>Why Choose ResumePro AI?</h2>
+
+  <div class="feature">✅ AI-Powered Resume Generator</div>
+  <div class="feature">✅ AI Cover Letter Creator</div>
+  <div class="feature">✅ ATS Score Optimization</div>
+  <div class="feature">✅ Tamil & English Support</div>
+  <div class="feature">✅ Designed for Indian & Global Jobs</div>
+
+</section>
+
+<footer>
+  © 2026 ResumePro AI | Built for Future Professionals
+</footer>
+
+</body>
+</html>
